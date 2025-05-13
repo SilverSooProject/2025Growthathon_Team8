@@ -39,7 +39,3 @@ npm install
 
 # 4️⃣ Run the application
 npm start
-
----
-
-
