@@ -1,6 +1,6 @@
 # 2025Growthathon_Team8
 
-# 📌 **Plogging Buddy 🏃‍➡️🌿**
+# **🏃‍➡️ Plogging Buddy 🌿**
 > 환경 보호를 위한 플로깅(Plogging) 모임 찾기 플랫폼입니다.  
 
 ---
