@@ -24,8 +24,6 @@
 - API: Kakao Map API, Kakao Share API
 - Tools: Git, VSCode
 
-  
-
 ---
 
 ## ⚙️ **Installation** (예시)
@@ -41,3 +39,24 @@ npm install
 
 # 4️⃣ Run the application
 npm start
+
+---
+
+## 👥 **Team Members**
+
+| Name        | Role                     | GitHub               | Contact                 |
+|--------------|--------------------------|----------------------|-------------------------|
+| 김은수       | **Project Manager / 기획**   | [GitHub Link](https://github.com/your-username) | your-email@example.com |
+| 팀원 2       | **Frontend Developer**      | [GitHub Link](https://github.com/team2-username) | team2-email@example.com |
+| 팀원 3       | **Frontend Developer**       | [GitHub Link](https://github.com/team3-username) | team3-email@example.com |
+| 팀원 4       | **Backend Developer**       | [GitHub Link](https://github.com/team4-username) | team4-email@example.com |
+| 팀원 5       | **Backend Developer**          | [GitHub Link](https://github.com/team5-username) | team5-email@example.com |
+| 팀원 6       | **UI/UX Designer**            | [GitHub Link](https://github.com/team6-username) | team6-email@example.com |
+
+---
+
+## 🔍 **Roles & Responsibilities**
+- **Project Manager / 기획**: 프로젝트 전반의 기획 및 관리, 일정 조율  
+- **Frontend Developer**: React를 활용한 웹 애플리케이션 UI 개발  
+- **Backend Developer**: Spring Boot로 API 및 서버 개발    
+- **UI/UX Designer**: 사용자 경험 최적화를 위한 인터페이스 디자인
